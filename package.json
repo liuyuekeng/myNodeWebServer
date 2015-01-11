@@ -1,0 +1,9 @@
+{
+    "name" : "Script-generator",
+    "description" : "to churns out scripts",
+    "version" : "0.0.1",
+    "author" : "liuyuekeng",
+    "dependencies" : {
+        "express" : "*"
+    }
+}
